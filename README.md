@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToraMutton&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiori-02-14&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
   
   <br><br>
 
