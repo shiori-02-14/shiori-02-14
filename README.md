@@ -27,6 +27,16 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToraMutton&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
+  
+  <br><br>
+
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ToraMutton&theme=tokyonight&hide_border=true&v=6" height="195" />
+  <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="195" />
+</div>
+
 <h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiori-02-14&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Shiori's GitHub stats" />
