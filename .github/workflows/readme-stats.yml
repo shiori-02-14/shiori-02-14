@@ -1,0 +1,38 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check PROFILE_TOKEN
+        run: |
+          if [ -z "${{ secrets.PROFILE_TOKEN }}" ]; then
+            echo "::error::PROFILE_TOKEN が未設定です。Settings → Secrets → Actions で repo スコープの PAT を設定してください。"
+            exit 1
+          fi
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&theme=tokyonight&hide_border=true&langs_count=20
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git diff --staged --quiet || git commit -m "Update top languages card"
+          git push
