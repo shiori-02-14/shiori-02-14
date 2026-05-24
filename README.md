@@ -63,7 +63,7 @@
 
 <div align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shiori-02-14&theme=tokyonight&hide_border=true&v=6" height="180" />
-  <img alt="Top Languages" src="./profile/top-langs.svg?v=3" height="180" />
+  <img alt="Top Languages" src="./profile/top-langs.svg?v=4" height="180" />
 </div>
 
 ---
