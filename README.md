@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Rin%20Shima.jpeg" alt="しおり🔖" width="160" style="border-radius: 50%;" />
+  <img src="./assets/avatar/rin-shima.jpeg" alt="しおり🔖" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">しおり🔖</h1>
@@ -28,8 +28,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-  <img src="./cursor.svg" width="48" height="48" alt="Cursor" />
-  <img src="./xcode.svg" width="48" height="48" alt="Xcode" />
+  <img src="./assets/icons/cursor.svg" width="48" height="48" alt="Cursor" />
+  <img src="./assets/icons/xcode.svg" width="48" height="48" alt="Xcode" />
   <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
