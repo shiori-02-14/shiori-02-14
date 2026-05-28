@@ -126,35 +126,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 70.86%
+        Swift 54.29%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 8.48%
+        Kotlin 28.19%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3D6117" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 7.20%
+        JavaScript 6.50%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 7.19%
+        TeX 5.51%
       </text>
     </g>
   </g><g transform="translate(0, 128)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 6.27%
+        HTML 5.51%
       </text>
     </g>
   </g>
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="70.86"
-          d="M 61.90637287638106 131.2413479706513 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="54.29"
+          d="M 101.57653669694871 171.28716729242194 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#F05138"
           fill="none"
           stroke-width="12">
@@ -176,9 +176,9 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="8.48"
-          d="M 62.09384254552957 101.40501608245566 A 56.66666666666667 56.66666666666667 0 0 0 61.90637287638106 131.2413479706513"
-          stroke="#f1e05a"
+          size="28.19"
+          d="M 66.14400843046803 91.00400671374321 A 56.66666666666667 56.66666666666667 0 0 0 101.57653669694871 171.28716729242194"
+          stroke="#A97BFF"
           fill="none"
           stroke-width="12">
         </path>
@@ -187,9 +187,9 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="7.2"
-          d="M 74.2546901547841 79.08561612963894 A 56.66666666666667 56.66666666666667 0 0 0 62.09384254552957 101.40501608245566"
-          stroke="#3D6117"
+          size="6.5"
+          d="M 80.4911346369257 73.0496746397479 A 56.66666666666667 56.66666666666667 0 0 0 66.14400843046803 91.00400671374321"
+          stroke="#f1e05a"
           fill="none"
           stroke-width="12">
         </path>
@@ -198,9 +198,9 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="7.19"
-          d="M 94.91550036727703 64.34078515734656 A 56.66666666666667 56.66666666666667 0 0 0 74.2546901547841 79.08561612963894"
-          stroke="#e34c26"
+          size="5.51"
+          d="M 97.43802185067602 63.36216095043676 A 56.66666666666667 56.66666666666667 0 0 0 80.4911346369257 73.0496746397479"
+          stroke="#3D6117"
           fill="none"
           stroke-width="12">
         </path>
@@ -209,9 +209,9 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="6.27"
-          d="M 116.66666666666671 60 A 56.66666666666667 56.66666666666667 0 0 0 94.91550036727703 64.34078515734656"
-          stroke="#663399"
+          size="5.51"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 97.43802185067602 63.36216095043676"
+          stroke="#e34c26"
           fill="none"
           stroke-width="12">
         </path>
