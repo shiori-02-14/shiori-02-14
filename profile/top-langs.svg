@@ -126,35 +126,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 43.78%
+        Swift 43.11%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 23.49%
+        TeX 23.13%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 22.74%
+        Kotlin 22.39%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.42%
+        JavaScript 6.49%
       </text>
     </g>
   </g><g transform="translate(0, 128)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 4.57%
+        CSS 4.88%
       </text>
     </g>
   </g>
@@ -165,8 +165,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="43.78"
-          d="M 138.25333929390402 169.06062315017337 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          size="43.11"
+          d="M 140.4392091873555 168.10573093899916 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
           stroke="#F05138"
           fill="none"
           stroke-width="12">
@@ -176,8 +176,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="23.49"
-          d="M 66.55333282838046 143.1197361052704 A 56.66666666666667 56.66666666666667 0 0 0 138.25333929390402 169.06062315017337"
+          size="23.13"
+          d="M 68.3690036360218 146.3052708323387 A 56.66666666666667 56.66666666666667 0 0 0 140.4392091873555 168.10573093899916"
           stroke="#3D6117"
           fill="none"
           stroke-width="12">
@@ -187,8 +187,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="22.74"
-          d="M 83.38764709715645 70.80145144201884 A 56.66666666666667 56.66666666666667 0 0 0 66.55333282838046 143.1197361052704"
+          size="22.39"
+          d="M 79.54077127835649 73.85569841404057 A 56.66666666666667 56.66666666666667 0 0 0 68.3690036360218 146.3052708323387"
           stroke="#A97BFF"
           fill="none"
           stroke-width="12">
@@ -198,8 +198,8 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="5.42"
-          d="M 100.61798744930601 62.320084377718935 A 56.66666666666667 56.66666666666667 0 0 0 83.38764709715645 70.80145144201884"
+          size="6.49"
+          d="M 99.56254271377617 62.642967654887876 A 56.66666666666667 56.66666666666667 0 0 0 79.54077127835649 73.85569841404057"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
@@ -209,9 +209,9 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="4.57"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 100.61798744930601 62.320084377718935"
-          stroke="#e34c26"
+          size="4.88"
+          d="M 116.66666666666661 60 A 56.66666666666667 56.66666666666667 0 0 0 99.56254271377617 62.642967654887876"
+          stroke="#663399"
           fill="none"
           stroke-width="12">
         </path>
