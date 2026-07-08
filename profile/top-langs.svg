@@ -154,7 +154,7 @@
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 7.30%
+        JavaScript 7.31%
       </text>
     </g>
   </g>
@@ -209,8 +209,8 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="7.3"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 91.5770335744622 65.85700791550332"
+          size="7.31"
+          d="M 116.7022713810646 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 91.5770335744622 65.85700791550332"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
